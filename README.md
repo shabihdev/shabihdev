@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hey, I'm Shabih
 
-<!--
-**shabihdev/shabihdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 13-year-old self-taught developer.
+💻 I build AI tools, full-stack web apps, and automations using Python, and JavaScript.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+![Python]
+![JavaScript]
+![React]
+![Node.js]
+
+
+---
+
+## 🚀 Projects
+| Name | What It Does |
+|------|---------------|
+| 🔧 ResumeGPT | AI resume optimizer using OpenAI |
+| 📊 TrendScout | Web scraper + GPT insight dashboard |
+| 🛠️ CodeBot | AI assistant that explains code line-by-line |
+
+(Coming soon — still building them 👷)
+
+---
+
+- 📧 Reach me: [shabih.haider778@gmail.com]
+
+---
